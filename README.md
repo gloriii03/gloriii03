@@ -88,11 +88,31 @@
 
 ### 📌 Featured Projects
 
-> _Add your top 2–3 projects here — a short description, tech used, and a link to the repo works great. Example format below:_
+**[Customer Churn Prediction](https://github.com/gloriii03/Customer-Churn-Prediction)**
+Classification pipeline predicting customer churn from demographics, tenure, billing, and subscription data — comparing Logistic Regression, Decision Tree, Random Forest, and SVM models.
+`Python` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn`
 
-**[Project Name](https://github.com/gloriii03/repo-name)**
-Brief one-line description of what it does and the problem it solves.
-`Python` `scikit-learn` `Pandas`
+**[Telco Customer Churn Prediction](https://github.com/gloriii03/Telo-customer-churn)**
+End-to-end ML pipeline predicting telecom customer churn — covering preprocessing, EDA, feature engineering, and model comparison (Logistic Regression, Decision Tree, Random Forest, SVM) evaluated on accuracy, precision, recall, and F1 score.
+`Python` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn`
+
+**[Exploratory Data Analysis (EDA)](https://github.com/gloriii03/CodeAlpha_Exploratory-Data-Analysis-EDA-)**
+Statistical and visual analysis pipeline covering data cleaning, outlier detection, correlation analysis, and distribution insights using histograms, boxplots, and heatmaps.
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+**[Data Visualization](https://github.com/gloriii03/CodeAlpha_Data-Visualization-)**
+Transforms raw datasets into bar charts, scatter plots, histograms, and pie charts to surface trends, relationships, and distribution patterns for data storytelling.
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+**[Motion Detection Dashboard](https://github.com/gloriii03/Motion-Detection)**
+Browser-based real-time motion detection app using webcam frame differencing, with live sensitivity controls, motion intensity scoring, and an event activity log.
+`React` `TypeScript` `Vite` `HTML5 Canvas`
+
+**[Web Scraping](https://github.com/gloriii03/CodeAlpha_Web-Scraping)**
+Python-based scraper that extracts, parses, and structures web data into CSV/table formats using BeautifulSoup and Requests.
+`Python` `BeautifulSoup` `Requests` `Pandas`
+
+<p align="center"><i>🔗 Explore all repositories on my <a href="https://github.com/gloriii03?tab=repositories">GitHub</a></i></p>
 
 ---
 

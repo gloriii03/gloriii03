@@ -1,5 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=150&section=header" />
+
 <h1 align="center">Hi there, I'm Sumit Singh 👋</h1>
-<h3 align="center">Aspiring Data Analyst, Machine Learning Engineer & Software Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Machine+Learning+Engineer;Software+Developer;Turning+Data+into+Decisions" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/gloriii03" target="_blank">
@@ -24,7 +28,6 @@
 - 🌱 Aspiring **Data Analyst**, **Machine Learning Engineer**, and **Software Developer** — constantly sharpening skills across all three
 - 💡 I enjoy turning messy, real-world data into clear, actionable insights — and building software to act on them
 - 🧩 Active problem solver — check out my LeetCode profile for DSA practice
-- 🏅 Earned the **LeetCode 50 Days Badge 2026** for solving problems 50+ days in the year
 - 📫 Let's connect on LinkedIn!
 
 ---
@@ -76,6 +79,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gloriii03&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+### 🏅 Achievements
+
+- 🏆 **LeetCode 50 Days Badge 2026** — Solved problems consistently for 50+ days in 2026
+- 💻 Active on [LeetCode](https://leetcode.com/u/Gloriii03/), sharpening data structures & algorithms skills
 
 ---
 

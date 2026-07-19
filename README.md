@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sumit Singh 👋</h1>
-<h3 align="center">Data Scientist / ML Engineer | Turning Data into Decisions</h3>
+<h3 align="center">Aspiring Data Analyst, Machine Learning Engineer & Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/gloriii03" target="_blank">
@@ -20,10 +20,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on machine learning and data science projects
-- 🌱 Constantly sharpening my skills in predictive modeling, deep learning, and data visualization
-- 💡 I enjoy turning messy, real-world data into clear, actionable insights
+- 🔭 I'm currently working on data analytics, machine learning, and software development projects
+- 🌱 Aspiring **Data Analyst**, **Machine Learning Engineer**, and **Software Developer** — constantly sharpening skills across all three
+- 💡 I enjoy turning messy, real-world data into clear, actionable insights — and building software to act on them
 - 🧩 Active problem solver — check out my LeetCode profile for DSA practice
+- 🏅 Earned the **LeetCode 50 Days Badge 2026** for solving problems 50+ days in the year
 - 📫 Let's connect on LinkedIn!
 
 ---
@@ -52,7 +53,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-**Tools**
+**Tools & Development**
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -120,4 +121,4 @@ Python-based scraper that extracts, parses, and structures web data into CSV/tab
   <img src="https://komarev.com/ghpvc/?username=gloriii03&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — let's build something great with data! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — let's build something great with data & code! 🚀</i></p>
